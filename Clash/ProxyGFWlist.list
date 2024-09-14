@@ -6048,7 +6048,7 @@ DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,meta.com
-# DOMAIN-SUFFIX,oculus.com 貌似没墙
+DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,oculuscdn.com
 IP-CIDR,31.13.24.0/21,no-resolve
 IP-CIDR,31.13.64.0/18,no-resolve
