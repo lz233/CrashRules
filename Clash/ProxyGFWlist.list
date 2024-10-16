@@ -6306,3 +6306,6 @@ DOMAIN-SUFFIX,picjs.xyz
 
 # cnBeta
 DOMAIN-SUFFIX,cnbeta.com.tw
+
+# Hugging Face
+DOMAIN-SUFFIX,huggingface.co
