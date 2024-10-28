@@ -6312,3 +6312,6 @@ DOMAIN-SUFFIX,huggingface.co
 
 # BlueSky
 DOMAIN-SUFFIX,bsky.app
+
+# Mox
+DOMAIN-SUFFIX,mox.moe
