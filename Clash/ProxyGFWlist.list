@@ -6315,3 +6315,6 @@ DOMAIN-SUFFIX,bsky.app
 
 # Mox
 DOMAIN-SUFFIX,mox.moe
+
+# Gradle
+DOMAIN-SUFFIX,gradle.org
