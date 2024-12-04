@@ -6321,3 +6321,6 @@ DOMAIN-SUFFIX,gradle.org
 
 # Yarn
 DOMAIN-SUFFIX,yarnpkg.com
+
+# NPM
+DOMAIN-SUFFIX,npmjs.org
