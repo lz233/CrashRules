@@ -6318,3 +6318,6 @@ DOMAIN-SUFFIX,mox.moe
 
 # Gradle
 DOMAIN-SUFFIX,gradle.org
+
+# Yarn
+DOMAIN-SUFFIX,yarnpkg.com
