@@ -6309,6 +6309,7 @@ DOMAIN-SUFFIX,cnbeta.com.tw
 
 # Hugging Face
 DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf.co
 
 # BlueSky
 DOMAIN-SUFFIX,bsky.app
