@@ -6334,3 +6334,6 @@ DOMAIN-SUFFIX,marketplace.jetbrains.com
 
 # BeatSaver
 DOMAIN-SUFFIX,beatsaver.com
+
+# Flathub
+DOMAIN-SUFFIX,flathub.org
