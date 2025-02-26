@@ -6337,3 +6337,6 @@ DOMAIN-SUFFIX,beatsaver.com
 
 # Flathub
 DOMAIN-SUFFIX,flathub.org
+
+# CDN
+DOMAIN-SUFFIX,bootstrapcdn.com
