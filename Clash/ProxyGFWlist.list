@@ -6340,3 +6340,6 @@ DOMAIN-SUFFIX,flathub.org
 
 # CDN
 DOMAIN-SUFFIX,bootstrapcdn.com
+
+# Klook
+DOMAIN-SUFFIX,klook.com
