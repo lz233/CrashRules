@@ -6343,3 +6343,6 @@ DOMAIN-SUFFIX,bootstrapcdn.com
 
 # Klook
 DOMAIN-SUFFIX,klook.com
+
+# Agoda
+DOMAIN-SUFFIX,agoda.com
