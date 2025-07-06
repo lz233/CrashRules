@@ -6346,3 +6346,6 @@ DOMAIN-SUFFIX,klook.com
 
 # Agoda
 DOMAIN-SUFFIX,agoda.com
+
+# F-Droid
+DOMAIN-SUFFIX,f-droid.org
