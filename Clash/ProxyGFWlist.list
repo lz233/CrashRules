@@ -6353,3 +6353,6 @@ DOMAIN-SUFFIX,f-droid.org
 
 # Brew
 DOMAIN-SUFFIX,brew.sh
+
+# Python
+DOMAIN-SUFFIX,pypi.org
