@@ -6072,6 +6072,7 @@ DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,ghcr.io
 
 # Google
 DOMAIN-SUFFIX,1e100.net
